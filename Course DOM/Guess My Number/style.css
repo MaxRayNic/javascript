@@ -1,77 +1,72 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
-body{
-    color: antiquewhite;
-    background-color: black;
+body {
+  color: antiquewhite;
+  background-color: black;
 }
-section{
-
+section {
 }
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
-header{
-    position: relative;
-    border-bottom:7px solid #eee;
-    margin-bottom: 100px;
+header {
+  position: relative;
+  border-bottom: 7px solid #eee;
+  margin-bottom: 100px;
 }
-.number{
-    background: #eee;
-    color: #333;
-    font-size: 4rem;
-    width: 12rem;
-    padding: 2rem 0rem;
-    text-align: center;
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translate(-77%, 87%);
+.number {
+  background: #eee;
+  color: #333;
+  font-size: 4rem;
+  width: 12rem;
+  padding: 2rem 0rem;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-77%, 87%);
 }
-.between{
-    float: right;
-    padding: 10px;
+.between {
+  float: right;
+  padding: 10px;
 }
-.again{
-    width: 200px;
-    height: 100px;
-    margin-left: 20px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    font-size: 30px;
-    
+.again {
+  width: 200px;
+  height: 100px;
+  margin-left: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 30px;
 }
-.left-side{
-    float: left;
-    width: 50%;
-    padding: 20px;
-    font-size: 30px;
-
+.left-side {
+  float: left;
+  width: 50%;
+  padding: 20px;
+  font-size: 30px;
 }
-.right-side{
-    float: right;
-    width: 50%;
-    padding: 20px; 
-    font-size: 30px;
+.right-side {
+  float: right;
+  width: 50%;
+  padding: 20px;
+  font-size: 30px;
 }
-.check{
-    height: 100px;
-    width: 250px;
-    margin: 50px;
-    font-size: 30px;
+.check {
+  height: 100px;
+  width: 250px;
+  margin: 50px;
+  font-size: 30px;
 }
-div{
-    margin: 50px;
-    text-align: center;
-
+div {
+  margin: 50px;
+  text-align: center;
 }
-#numbers{
-    height: 100px;
-    width: 250px;
-    margin: 50px;
-    font-size: 30px;
-    text-align: center;
-    
+#numbers {
+  height: 100px;
+  width: 250px;
+  margin: 50px;
+  font-size: 30px;
+  text-align: center;
 }
